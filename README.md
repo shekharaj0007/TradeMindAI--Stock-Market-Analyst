@@ -16,11 +16,7 @@
 
 # 📸 Application Screenshots
 
-## 📊 TradeMindAI Dashboard
 
-![TradeMindAI Dashboard](assets/Dashboard%20-%20TradeMind%20AI.png)
-
----
 
 ## 🤖 AI Portfolio Advisor
 
