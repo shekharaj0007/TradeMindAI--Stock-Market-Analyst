@@ -14,6 +14,54 @@
 | **Level 2** | AI portfolio advisor, stock research, trading journal with AI feedback, risk scoring |
 | **Resume** | Full-stack, WebSockets, Redis caching, cloud-deployable, startup-quality UI |
 
+# 📸 Application Screenshots
+
+## 📊 Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## 📈 Market Overview
+
+![Market Overview](assets/market-overview.png)
+
+---
+
+## 🤖 AI Stock Analysis
+
+![AI Stock Analysis](assets/stock-analysis.png)
+
+---
+
+## 📉 Technical Analysis
+
+![Technical Analysis](assets/technical-analysis.png)
+
+---
+
+## 🔮 AI Prediction
+
+![Prediction](assets/prediction.png)
+
+---
+
+## 💼 Portfolio Analytics
+
+![Portfolio](assets/portfolio.png)
+
+---
+
+## 📰 Financial News
+
+![Financial News](assets/news.png)
+
+---
+
+## 💬 Market Sentiment
+
+![Market Sentiment](assets/sentiment.png)
+
 ## Features
 
 ### Paper Trading (Level 1)
