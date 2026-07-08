@@ -16,52 +16,51 @@
 
 # 📸 Application Screenshots
 
-## 📊 Dashboard
+## 📊 TradeMindAI Dashboard
 
-![Dashboard](assets/dashboard.png)
-
----
-
-## 📈 Market Overview
-
-![Market Overview](assets/market-overview.png)
+![TradeMindAI Dashboard](assets/Dashboard%20-%20TradeMind%20AI.png)
 
 ---
 
-## 🤖 AI Stock Analysis
+## 🤖 AI Portfolio Advisor
 
-![AI Stock Analysis](assets/stock-analysis.png)
-
----
-
-## 📉 Technical Analysis
-
-![Technical Analysis](assets/technical-analysis.png)
+![AI Portfolio Advisor](assets/AI%20Portfolio%20Advisor.png)
 
 ---
 
-## 🔮 AI Prediction
+## 📈 Paper Trading Dashboard
 
-![Prediction](assets/prediction.png)
-
----
-
-## 💼 Portfolio Analytics
-
-![Portfolio](assets/portfolio.png)
+![Paper Trading Dashboard](assets/Paper%20Trading%20Dashboard.png)
 
 ---
 
-## 📰 Financial News
+## 💼 Portfolio Overview
 
-![Financial News](assets/news.png)
+![Portfolio](assets/Portfolio.png)
 
 ---
 
-## 💬 Market Sentiment
+## 📝 Self Trading Journal
 
-![Market Sentiment](assets/sentiment.png)
+![Self Trading Journal](assets/Self%20Trading%20Journal.png)
 
+---
+
+## 📜 Order History
+
+![Order History](assets/Order%20History.png)
+
+---
+
+## 🏆 Competition Leaderboard
+
+![Competition Leaderboard](assets/Competetion%20Leaderboard.png)
+
+---
+
+## 💹 AI Trade Recommendation
+
+![Trade Recommendation](assets/TRADE%20-%20bUY%20OR%20sELL.png)
 ## Features
 
 ### Paper Trading (Level 1)
